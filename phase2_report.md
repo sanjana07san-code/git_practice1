@@ -1,0 +1,3 @@
+### Short Note: Difficulties Faced in Phase 2
+
+During Phase 2, I found **interactive rebase** to be the most challenging task because I encountered merge conflicts while squashing commits. Resolving the conflicts in `README.md` and understanding how to continue the rebase required careful attention. I also faced some difficulty using `git revert` and `git cherry-pick` because I initially used incorrect commit hashes. Working through these issues helped me understand how Git manages commit history, resolves conflicts, and recovers changes. Overall, this phase improved my confidence in using advanced Git commands and troubleshooting common Git errors.
